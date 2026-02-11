@@ -1,6 +1,7 @@
 {
     "workbench.colorTheme": "Default Dark Modern",
     "workbench.iconTheme": "vs-seti",
+    "C_Cpp.intelliSenseEngine": "default",
     "github.copilot.enable": {
         "*": false
     }
