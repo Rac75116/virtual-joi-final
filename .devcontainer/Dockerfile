@@ -15,8 +15,6 @@ RUN apt-get update && \
     && apt-get clean && \
     rm -rf /var/lib/apt/lists/*
 
-RUN ln -s /usr/bin/python3 /usr/bin/python
-
 WORKDIR /workspace
 
 CMD ["/bin/bash"]
