@@ -1,0 +1,16 @@
+{
+    "name": "virtual-joi-final",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-vscode.cpptools",
+                "ms-python.python",
+                "ms-python.debugpy",
+                "ms-python.vscode-pylance"
+            ]
+        }
+    }
+}
