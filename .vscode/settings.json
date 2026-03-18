@@ -12,7 +12,4 @@
     "python.terminal.activateEnvironment": false,
     "python.analysis.indexing": false,
     "python.analysis.userFileIndexingLimit": 500,
-    "github.copilot.enable": {
-        "*": false
-    }
 }
