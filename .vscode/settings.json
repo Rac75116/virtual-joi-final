@@ -2,6 +2,16 @@
     "workbench.colorTheme": "Default Dark Modern",
     "workbench.iconTheme": "vs-seti",
     "C_Cpp.intelliSenseEngine": "default",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000,
+    "editor.minimap.enabled": false,
+    "workbench.startupEditor": "none",
+    "terminal.integrated.gpuAcceleration": "off",
+    "chat.disableAIFeatures": true,
+    "C_Cpp.default.cppStandard": "c++20",
+    "python.terminal.activateEnvironment": false,
+    "python.analysis.indexing": false,
+    "python.analysis.userFileIndexingLimit": 500,
     "github.copilot.enable": {
         "*": false
     }
